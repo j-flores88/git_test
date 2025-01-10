@@ -1,1 +1,1 @@
-This is Joel's first git project!
+This is Joel's first git project! Git it!
